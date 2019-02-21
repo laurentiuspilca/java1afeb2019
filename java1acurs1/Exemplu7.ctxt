@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Exemplu7
+comment0.text=\r\n\ Acesta\ este\ exemplul\ 7.\r\n\ Aici\ discutam\ despre\ comentarii\r\n\ Am\ scris\ si\ o\ expresie\ cu\ operatorul\ ternar\r\n\ \r\n\ @version\ 1.0\r\n\ @author\ Laur\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Aici\ scriu\r\n\ Un\ comentariu\r\n\ pe\ mai\ multe\r\n\ linii\r\n
+numComments=2

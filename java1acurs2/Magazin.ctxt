@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Magazin
+comment1.params=marca\ culoare
+comment1.target=Masina\ importa(java.lang.String,\ java.lang.String)
+numComments=2

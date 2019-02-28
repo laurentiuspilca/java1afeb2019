@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Masina
+comment1.params=culoare\ marca
+comment1.target=Masina(java.lang.String,\ java.lang.String)
+numComments=2

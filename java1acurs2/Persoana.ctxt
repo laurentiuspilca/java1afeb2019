@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Persoana
+comment1.params=nume
+comment1.target=Persoana(java.lang.String)
+comment2.params=magazin\ marca\ culoare
+comment2.target=void\ cumpara(Magazin,\ java.lang.String,\ java.lang.String)
+numComments=3

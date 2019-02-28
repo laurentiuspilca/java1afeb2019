@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Foo
+comment1.params=abc
+comment1.target=void\ modificaSuma(double)
+comment2.params=cont
+comment2.target=void\ modificaCont(Cont)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

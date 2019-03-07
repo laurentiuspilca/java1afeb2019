@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bar
+comment1.params=
+comment1.target=void\ m()
+comment2.params=i
+comment2.target=void\ m(int)
+comment3.params=d
+comment3.target=void\ m(double)
+comment4.params=s\ d
+comment4.target=void\ m(java.lang.String,\ double)
+comment5.params=s\ d
+comment5.target=void\ m(double,\ java.lang.String)
+comment6.params=foo
+comment6.target=void\ m(Foo)
+comment7.params=bar
+comment7.target=void\ m(Bar)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=
+comment1.target=void\ display()
+comment2.params=p
+comment2.target=void\ staticDisplay(Point)
+numComments=3

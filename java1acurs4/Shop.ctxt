@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Shop
+comment1.params=dogs
+comment1.target=Shop(Dog[])
+comment2.params=
+comment2.target=Dog[]\ getDogs()
+numComments=3

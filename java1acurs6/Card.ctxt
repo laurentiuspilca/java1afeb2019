@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=number
+comment1.target=Card(java.lang.String)
+comment2.params=o
+comment2.target=boolean\ equals(java.lang.Object)
+comment3.params=
+comment3.target=int\ hashCode()
+comment4.params=
+comment4.target=void\ finalize()
+numComments=5

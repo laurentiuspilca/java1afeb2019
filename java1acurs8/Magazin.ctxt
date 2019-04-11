@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Magazin
+comment1.params=
+comment1.target=Magazin()
+comment2.params=
+comment2.target=Magazin\ getInstance()
+comment3.params=p
+comment3.target=void\ adaugaProdus(Produs)
+comment4.params=
+comment4.target=void\ afisareProduse()
+comment5.params=
+comment5.target=void\ afisareCiocolate()
+numComments=6

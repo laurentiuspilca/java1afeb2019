@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bere
+comment1.params=serie\ pret\ pa
+comment1.target=Bere(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

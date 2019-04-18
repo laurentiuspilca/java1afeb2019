@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pizza
+comment1.params=MAX_INGREDIENTE
+comment1.target=Pizza(int)
+comment2.params=i
+comment2.target=void\ adaugaIngredient(Ingredient)
+numComments=3
